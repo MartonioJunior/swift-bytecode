@@ -1,6 +1,6 @@
 //
 //  StackBasedVirtualMachineTests.swift
-//  Core
+//  Bytecode
 //
 //  Created by Martônio Júnior on 11/03/2025.
 //

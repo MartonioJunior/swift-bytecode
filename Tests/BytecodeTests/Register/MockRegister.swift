@@ -1,6 +1,6 @@
 //
 //  MockRegister.swift
-//  Core
+//  Bytecode
 //
 //  Created by Martônio Júnior on 17/03/2025.
 //
